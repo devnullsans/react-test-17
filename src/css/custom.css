@@ -1,0 +1,14 @@
+.play-button {
+  background: #17a2b8;
+  border: 0;
+  border-radius: 100%;
+  color: #fff;
+  left: 50%;
+  opacity: 0.9;
+  padding: 15px;
+  padding: calc(var(--plyr-control-spacing, 10px) * 1.5);
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
